@@ -1,0 +1,5 @@
+// Yes daar gaan we
+
+config --global user.gmail github"
+
+nog veel meer
