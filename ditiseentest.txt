@@ -1,5 +1,0 @@
-// Yes daar gaan we  // Felix &  // Pien
-
-config --global user.gmail github"
-
-nog veel meer
